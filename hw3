@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Login Page</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="body">
+    <img src="" alt="">
+    <h1 class="h1">巴哈姆特</h1>
+    <form class="form">
+        <p class="p">巴哈姆特 </p>
+        <p>最棒的社群網站</p>
+        <input class="ll" type="text" id="username" name="帳號"placeholder="帳號"><br>
+        <input class="ll" type="password" id="password" name="密碼"placeholder="密碼"><br>
+
+        <input class="submit" type="submit" value="登入" style="color: white">
+    </form>
+
+</body>
+</html>
